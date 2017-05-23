@@ -4,5 +4,5 @@
 
 from . import (
     account_analytic_line,
-    account_invoice,
+    account_invoice_line,
 )
